@@ -38,12 +38,12 @@ This repository contains a Vite-powered React template with pre-configured deplo
    <br>
    <br>
 
-**Deployment**
-<br>
+## Deployment
+
 This repository is pre-configured to deploy to GitHub Pages using GitHub Actions.
 
-**Configuration**
-<br>
+### Configuration
+
 To deploy your application, you need to adjust the base option in the `vite.comfig.js` file to point to your repository and branch.
 
 Open `vite.comfig.js`.
@@ -63,8 +63,8 @@ export default defineConfig({
 
 Replace `/vite-react-template/` with the name of your GitHub repository.
 
-**Deploying**
-<br>
+### Deploying
+
 Build your project:
 
 ```sh
@@ -83,10 +83,10 @@ GitHub Actions will automatically build and deploy your project to the gh-pages 
 <br>
 <br>
 
-**Accessing Your Deployed Site**
-<br>
+### Accessing Your Deployed Site
+
 After the workflow completes, your site will be available at `https://your-username.github.io/your-repo-name`.
 
-**Contributing**
-<br>
+## Contributing
+
 Contributions are welcome! Please open an issue or submit a pull request if you have any improvements or suggestions.
