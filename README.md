@@ -85,7 +85,7 @@ GitHub Actions will automatically build and deploy your project to the gh-pages 
 
 **Accessing Your Deployed Site**
 <br>
-After the workflow completes, your site will be available at https://your-username.github.io/your-repo-name.
+After the workflow completes, your site will be available at `https://your-username.github.io/your-repo-name`.
 
 **Contributing**
 <br>
